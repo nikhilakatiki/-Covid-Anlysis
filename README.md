@@ -1,2 +1,2 @@
-# -Covid-Anlysis
+# -Covid-Analysis
 Social Network Analysis
